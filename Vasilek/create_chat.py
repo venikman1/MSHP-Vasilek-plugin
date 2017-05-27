@@ -2,7 +2,7 @@ import sublime, sublime_plugin
 import urllib, urllib.parse
 import webbrowser
 
-HOST = "https://secure-cove-21506.herokuapp.com/"
+HOST = "https://secure-cove-21506.herokuapp.com"
 TYPES = {'py': "Python",
          'cpp': "C++",
          'html': "Html"}
