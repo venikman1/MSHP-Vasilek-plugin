@@ -1,4 +1,4 @@
-# MSHP Vasilek sublime plugin
+# MSHP Vasilek sublime text 3 plugin
 This is sublime plugin for application Vasilek.  
 To install this plugin copy Vasilek/ into your sublime packages directory. Also you can write `make install` for easy installing.
 
